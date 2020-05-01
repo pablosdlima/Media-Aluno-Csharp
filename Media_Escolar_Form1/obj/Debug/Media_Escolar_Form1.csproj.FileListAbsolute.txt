@@ -1,0 +1,20 @@
+D:\ADS--UNIP\2º Semestre\Prog Orientada a Objetos I\Treino C# - Console\Media_Escolar_Form1\Media_Escolar_Form1\bin\Debug\Media_Escolar_Form1.exe.config
+D:\ADS--UNIP\2º Semestre\Prog Orientada a Objetos I\Treino C# - Console\Media_Escolar_Form1\Media_Escolar_Form1\bin\Debug\Media_Escolar_Form1.exe
+D:\ADS--UNIP\2º Semestre\Prog Orientada a Objetos I\Treino C# - Console\Media_Escolar_Form1\Media_Escolar_Form1\bin\Debug\Media_Escolar_Form1.pdb
+D:\ADS--UNIP\2º Semestre\Prog Orientada a Objetos I\Treino C# - Console\Media_Escolar_Form1\Media_Escolar_Form1\obj\Debug\Media_Escolar_Form1.csprojAssemblyReference.cache
+D:\ADS--UNIP\2º Semestre\Prog Orientada a Objetos I\Treino C# - Console\Media_Escolar_Form1\Media_Escolar_Form1\obj\Debug\Media_Escolar_Form1.form_Calculo.resources
+D:\ADS--UNIP\2º Semestre\Prog Orientada a Objetos I\Treino C# - Console\Media_Escolar_Form1\Media_Escolar_Form1\obj\Debug\Media_Escolar_Form1.Properties.Resources.resources
+D:\ADS--UNIP\2º Semestre\Prog Orientada a Objetos I\Treino C# - Console\Media_Escolar_Form1\Media_Escolar_Form1\obj\Debug\Media_Escolar_Form1.csproj.GenerateResource.cache
+D:\ADS--UNIP\2º Semestre\Prog Orientada a Objetos I\Treino C# - Console\Media_Escolar_Form1\Media_Escolar_Form1\obj\Debug\Media_Escolar_Form1.csproj.CoreCompileInputs.cache
+D:\ADS--UNIP\2º Semestre\Prog Orientada a Objetos I\Treino C# - Console\Media_Escolar_Form1\Media_Escolar_Form1\obj\Debug\Media_Escolar_Form1.exe
+D:\ADS--UNIP\2º Semestre\Prog Orientada a Objetos I\Treino C# - Console\Media_Escolar_Form1\Media_Escolar_Form1\obj\Debug\Media_Escolar_Form1.pdb
+C:\Users\Pablo Victor\Documents\ADS--UNIP\2º Semestre\Prog Orientada a Objetos I\Treino C# - Console\Formulario\Media_Escolar_Form1\Media_Escolar_Form1\bin\Debug\Media_Escolar_Form1.exe.config
+C:\Users\Pablo Victor\Documents\ADS--UNIP\2º Semestre\Prog Orientada a Objetos I\Treino C# - Console\Formulario\Media_Escolar_Form1\Media_Escolar_Form1\bin\Debug\Media_Escolar_Form1.exe
+C:\Users\Pablo Victor\Documents\ADS--UNIP\2º Semestre\Prog Orientada a Objetos I\Treino C# - Console\Formulario\Media_Escolar_Form1\Media_Escolar_Form1\bin\Debug\Media_Escolar_Form1.pdb
+C:\Users\Pablo Victor\Documents\ADS--UNIP\2º Semestre\Prog Orientada a Objetos I\Treino C# - Console\Formulario\Media_Escolar_Form1\Media_Escolar_Form1\obj\Debug\Media_Escolar_Form1.csprojAssemblyReference.cache
+C:\Users\Pablo Victor\Documents\ADS--UNIP\2º Semestre\Prog Orientada a Objetos I\Treino C# - Console\Formulario\Media_Escolar_Form1\Media_Escolar_Form1\obj\Debug\Media_Escolar_Form1.form_Calculo.resources
+C:\Users\Pablo Victor\Documents\ADS--UNIP\2º Semestre\Prog Orientada a Objetos I\Treino C# - Console\Formulario\Media_Escolar_Form1\Media_Escolar_Form1\obj\Debug\Media_Escolar_Form1.Properties.Resources.resources
+C:\Users\Pablo Victor\Documents\ADS--UNIP\2º Semestre\Prog Orientada a Objetos I\Treino C# - Console\Formulario\Media_Escolar_Form1\Media_Escolar_Form1\obj\Debug\Media_Escolar_Form1.csproj.GenerateResource.cache
+C:\Users\Pablo Victor\Documents\ADS--UNIP\2º Semestre\Prog Orientada a Objetos I\Treino C# - Console\Formulario\Media_Escolar_Form1\Media_Escolar_Form1\obj\Debug\Media_Escolar_Form1.csproj.CoreCompileInputs.cache
+C:\Users\Pablo Victor\Documents\ADS--UNIP\2º Semestre\Prog Orientada a Objetos I\Treino C# - Console\Formulario\Media_Escolar_Form1\Media_Escolar_Form1\obj\Debug\Media_Escolar_Form1.exe
+C:\Users\Pablo Victor\Documents\ADS--UNIP\2º Semestre\Prog Orientada a Objetos I\Treino C# - Console\Formulario\Media_Escolar_Form1\Media_Escolar_Form1\obj\Debug\Media_Escolar_Form1.pdb
